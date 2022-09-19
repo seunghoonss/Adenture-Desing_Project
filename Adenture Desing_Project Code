@@ -1,4 +1,3 @@
-
 #include <DigitShield.h>                // 디지털쉴드를 사용하기 위해 헤더파일 추가한 코드
 
 int AOUTpin = A4;                       // A4번핀을 AOUTpin 변수로 선언해준다
